@@ -1,11 +1,11 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Víctor Peñafiel",
+	name: "Victor Penafiel",
 	title: "Hola Mundo, Yo soy Víctor",
 	description:
 		"Realizando en la actualidad un bootcamp (Full Stack Python). Dispuesto, atento y proactivo. Si es necesario, me empeño en proponer ideas para mejorar los servicios. Ordenado y puntual.",
-	resumeLink: "https://awesome-bose-9ccd04.netlify.app/",
+	resumeLink: "https://musing-jackson-54d380.netlify.app/",
 };
 
 export const openSource = {
