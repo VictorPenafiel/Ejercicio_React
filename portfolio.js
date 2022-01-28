@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Victor Penafiel",
 	title: "Hola Mundo, Yo soy Víctor",
 	description:
-		"Desarrollador web dedicado a la creación de sitios responsivos (adaptable a celulares, Tablet, Notebook). Creo sitios atractivos y adaptables a las necesidades de los usuarios totalmente personalizados: Formularios de contacto, Carrito de compras, Carrusel de imágenes, Integración con Redes Sociales, etc.Creo sitios web modernos y funcionales para su empresa o emprendimiento, lo que puede incluir Hosting, Diseño gráfico, Correos Corporativos y Dominio .cl por un año.Interesados preguntar al WhatsApp +569 8799 2950. Precio conversable, según los requerimientos solicitados por el cliente.",
+		"Desarrollador web dedicado a la creación de sitios modernos y funcionales para su empresa o emprendimiento personal; Responsivos (adaptable a celulares, Tablet, Notebook),y totalmente personalizados a las necesidades de mis clientes: Carrito de compras, Carrusel de imágenes, Integración con Redes Sociales, etc. Interesados WhatsApp +569 8799 2950",
 	resumeLink: "https://musing-jackson-54d380.netlify.app/",
 };
 
