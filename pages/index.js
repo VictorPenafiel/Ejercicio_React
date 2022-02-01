@@ -21,9 +21,9 @@ export default function Home({ githubProfileData }) {
 				data={{
 					title: "Víctor Peñafiel",
 					description:
-						"Dispuesto, atento y proactivo. Si es necesario, me empeño en proponer ideas para mejorar los servicios. Ordenado y puntual.",
+						"Desarrollador web, dedicado a la creación de sitios modernos y funcionales para su empresa o emprendimiento personal; Responsivos (adaptable a celulares, Tablet, Notebook),y totalmente personalizados a sus necesidades",
 					image: "Diseño web",
-					url: "https://www.instagram.com/p/CZZZ1JFLhPQ/",
+					url: "https://imgur.com/a/YofRbEZ",
 					keywords: [
 						"crear sitio",
 						"diseño web",
