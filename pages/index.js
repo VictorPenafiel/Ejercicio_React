@@ -21,9 +21,9 @@ export default function Home({ githubProfileData }) {
 				data={{
 					title: "Víctor Peñafiel",
 					description:
-						"Desarrollador web, dedicado a la creación de sitios modernos y funcionales para su empresa o emprendimiento personal; Responsivos (adaptable a celulares, Tablet, Notebook),y totalmente personalizados a sus necesidades",
+						"Desarrollador web dedicado a la creación de sitios modernos y funcionales para su empresa o emprendimiento personal.",
 					image: "Diseño web",
-					url: "https://imgur.com/a/YofRbEZ",
+					url:"https://imgur.com/a/YofRbEZ" ,
 					keywords: [
 						"crear sitio",
 						"diseño web",
