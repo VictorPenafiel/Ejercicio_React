@@ -19,9 +19,9 @@ export default function Home({ githubProfileData }) {
 		<div>
 			<SEO
 				data={{
-					title: "Víctor Peñafiel",
+					title: "Tu sitio web 3.0",
 					description:
-						"Desarrollador web dedicado a la creación de sitios modernos y funcionales para su empresa o emprendimiento personal.",
+						"Diseñamos sitios modernos y funcionales para su empresa o emprendimiento personal.",
 					image: "Diseño web",
 					url:"https://imgur.com/a/YofRbEZ" ,
 					keywords: [
@@ -35,6 +35,10 @@ export default function Home({ githubProfileData }) {
 						"nodejs ",
 						"expressjs",
 						"reactjs ",
+						"web 3.0",
+						"web",
+						"tu pagina",
+
 					],
 				}}
 			/>

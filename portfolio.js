@@ -23,18 +23,18 @@ export const socialLinks = {
 };
 
 export const skillsSection = {
-	title: "Desarrollador Full Stack Python",
+	title: "Las tecnologías que manejamos",
 	subTitle:
-		"Las tecnologías que manejo",
+		"",
 	skills: [
 		emoji(
-			"⚡ Front End: Soy capaz de crear una interfaz de usuario interactiva, capaz de trabajar con bases de datos"
+			"⚡ Front End: Somos capaces de crear una interfaz de usuario interactiva, capaz de trabajar con grandes bases de datos"
 		),
 		emoji(
-			"⚡ Back End: Me encargo de todos los procesos necesarios para que funcione la web, es decir, todas las operaciones que ocurren en los servidores, pero que no son posibles de visualizar por el usuario."
+			"⚡ Back End: Nos encargamos de todos los procesos necesarios para que funcione tu sitio web, es decir, todas las operaciones que ocurren en los servidores pero que no son posibles de visualizar por el usuario."
 		),
 		emoji(
-			"⚡ Codificar piezas de software de baja/mediana complejidad utilizando lenguaje Python, para resolver problemáticas comunes de acuerdo a las necesidades de la industria."
+			"⚡ Codificamos piezas de software de baja/mediana complejidad utilizando lenguaje Python, para resolver problemáticas comunes de acuerdo a tus necesidades."
 		),
 	],
 
@@ -98,16 +98,22 @@ export const educationInfo = [
 		schoolName: "Universidad de Valparaíso",
 		subHeader: "Cine",
 		duration: "2010 - 2013",
+		desc: "Producción cinematográfica",
 		descBullets: [
-			"Producción cinematográfica",
+			"El Útero",
+			"Amanita Mía"
+
 		],
 	},
 	{
 		schoolName: "Universidad Católica del Norte",
 		subHeader: "Psicología",
 		duration: "2003-2005",
+		desc: "Tecnologías del Yo",
 		descBullets: [
-			"Tecnologías del Yo",
+			"Yoga",
+			"Rolfing",
+			"Método Mézières"
 		],
 	},
 ];
