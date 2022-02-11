@@ -1,7 +1,7 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Tu diseño web 3.0",
+	name: "Tu sitio web 3.0",
 	title: "Hola Mundo.",
 	description:
 		"Diseñamos sitios web modernos y funcionales para su empresa o emprendimiento personal; Responsivos (adaptable a celulares, Tablet, Notebook),y totalmente personalizados a sus necesidades: Carro de compras, Carrusel de imágenes, Integración con Redes Sociales, etc. Interesados WhatsApp +569 8799 2950",
@@ -89,7 +89,7 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Programando",
-		progressPercentage: "65",
+		progressPercentage: "75",
 	},
 ];
 
@@ -126,26 +126,22 @@ export const projects = [
 	{
 		name: "Portafolio (ejemplo)",
 		desc: "Sitio web totalmente responsivo que simula un sitio de portafolio web.",
-		github: "https://github.com/VictorPenafiel/portafolio",
 		link: "https://musing-jackson-54d380.netlify.app/",
 	},
 	{
 		name: "Ricomida (Ecommerce)",
 		desc: "Sitio web totalmente responsivo que simula un sitio de comida.",
-		github: "https://github.com/VictorPenafiel/Ricomida",
 		link: "https://elated-shockley-d85a70.netlify.app/",
 	},
 	
 	{
 		name: "Suricata (Ecommerce)",
 		desc: "Sitio web totalmente responsivo que simula un sitio de comercio electrónico.",
-		github: "https://github.com/VictorPenafiel/Suricata",
 		link: "https://festive-engelbart-7d60bb.netlify.app/",
 	},
 	{
 		name: "Cuppon (Ecommerce)",
 		desc: "Sitio web totalmente responsivo que simula un sitio de ofertas.",
-		github: "https://github.com/VictorPenafiel/cuppon",
 		link: "https://wonderful-mirzakhani-266d51.netlify.app/",
 	},
 	
