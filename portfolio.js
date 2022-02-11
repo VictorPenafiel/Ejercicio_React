@@ -1,11 +1,11 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Victor Penafiel",
-	title: "Hola, Yo Soy Víctor",
+	name: "Tu diseño web 3.0",
+	title: "Hola Mundo.",
 	description:
-		"Desarrollador web dedicado a la creación de sitios modernos y funcionales para su empresa o emprendimiento personal; Responsivos (adaptable a celulares, Tablet, Notebook),y totalmente personalizados a sus necesidades: Carro de compras, Carrusel de imágenes, Integración con Redes Sociales, etc. Interesados WhatsApp +569 8799 2950",
-	resumeLink: "https://musing-jackson-54d380.netlify.app/",
+		"Diseñamos sitios web modernos y funcionales para su empresa o emprendimiento personal; Responsivos (adaptable a celulares, Tablet, Notebook),y totalmente personalizados a sus necesidades: Carro de compras, Carrusel de imágenes, Integración con Redes Sociales, etc. Interesados WhatsApp +569 8799 2950",
+	resumeLink: "https://www.victorpenafiel.cl",
 };
 
 export const openSource = {
