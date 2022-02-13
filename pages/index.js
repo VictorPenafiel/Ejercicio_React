@@ -23,7 +23,7 @@ export default function Home({ githubProfileData }) {
 					description:
 						"Diseñamos sitios modernos y funcionales para su empresa o emprendimiento personal.",
 					image: "Diseño web",
-					url:"https://imgur.com/a/YofRbEZ" ,
+					url:"#" ,
 					keywords: [
 						"crear sitio",
 						"diseño web",
