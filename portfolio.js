@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Tu sitio web 3.0",
 	title: "¡Hola, mundo!",
 	description:
-		"Diseñamos sitios web modernos y funcionales para su empresa o emprendimiento personal; Responsivos (adaptable a celulares, Tablet, Notebook),y totalmente personalizados a sus necesidades: Carro de compras, Carrusel de imágenes, Integración con Redes Sociales, etc. Interesados WhatsApp +569 8799 2950",
+		"Diseñamos sitios web modernos y funcionales para su empresa o emprendimiento personal; Responsivos (adaptable a celulares, Tablet, Notebook),y totalmente personalizados a sus necesidades: Carro de compras, Carrusel de imágenes, Integración con Redes Sociales, etc. Interesados WhatsApp +569 8769 2950",
 	resumeLink: "https://www.victorpenafiel.cl",
 };
 

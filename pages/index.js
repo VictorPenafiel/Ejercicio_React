@@ -22,8 +22,8 @@ export default function Home({ githubProfileData }) {
 					title: "Tu sitio web 3.0",
 					description:
 						"Diseñamos sitios modernos y funcionales para su empresa o emprendimiento personal.",
-					image: "https://www.tusitioweb3.cl",
-					url: "https://www.tusitioweb3.cl",
+					image: "https://imgur.com/a/YofRbEZ",
+					url: "https://imgur.com/a/YofRbEZ",
 					keywords: [
 						"crear sitio",
 						"diseño web",
