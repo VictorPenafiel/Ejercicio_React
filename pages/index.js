@@ -23,7 +23,7 @@ export default function Home({ githubProfileData }) {
 					description:
 						"Diseñamos sitios modernos y funcionales para su empresa o emprendimiento personal.",
 					image: "Diseño web",
-					url:" https://www.tusitioweb3.cl" ,
+					url:"https://imgur.com/a/YofRbEZ" ,
 					keywords: [
 						"crear sitio",
 						"diseño web",
