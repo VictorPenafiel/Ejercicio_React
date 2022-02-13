@@ -23,7 +23,7 @@ export default function Home({ githubProfileData }) {
 					description:
 						"Diseñamos sitios modernos y funcionales para su empresa o emprendimiento personal.",
 					image: "Diseño web",
-					url:"www.tusitioweb3.cl" ,
+					url:" https://www.tusitioweb3.cl" ,
 					keywords: [
 						"crear sitio",
 						"diseño web",
@@ -32,9 +32,6 @@ export default function Home({ githubProfileData }) {
 						"full stack web developer",
 						"django",
 						"django rest framework",
-						"nodejs ",
-						"expressjs",
-						"reactjs ",
 						"web 3.0",
 						"web",
 						"tu pagina",
