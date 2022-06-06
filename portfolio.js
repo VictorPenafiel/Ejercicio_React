@@ -85,11 +85,11 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "75",
+		progressPercentage: "79",
 	},
 	{
 		Stack: "Programando",
-		progressPercentage: "75",
+		progressPercentage: "78",
 	},
 ];
 
@@ -131,7 +131,7 @@ export const projects = [
 		link: "https://newendo.herokuapp.com/",
 	},
 	{
-		name: "Portafolio (ejemplo)",
+		name: "Portafolio",
 		desc: "Sitio web totalmente responsivo que simula un sitio de portafolio web.",
 		link: "https://musing-jackson-54d380.netlify.app/",
 	},
