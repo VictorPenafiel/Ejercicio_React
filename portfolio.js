@@ -124,6 +124,12 @@ export const experience = [
 ];
 
 export const projects = [
+
+	{
+		name: "Newendo(Aplicación web)",
+		desc: "Aplicación web para dar a conocer una nueva tecnología del Yo.",
+		link: "https://newendo.herokuapp.com/",
+	},
 	{
 		name: "Portafolio (ejemplo)",
 		desc: "Sitio web totalmente responsivo que simula un sitio de portafolio web.",
@@ -133,12 +139,6 @@ export const projects = [
 		name: "Ricomida (Ecommerce)",
 		desc: "Sitio web totalmente responsivo que simula un sitio de comida.",
 		link: "https://elated-shockley-d85a70.netlify.app/",
-	},
-	
-	{
-		name: "Suricata (Ecommerce)",
-		desc: "Sitio web totalmente responsivo que simula un sitio de comercio electrónico.",
-		link: "https://festive-engelbart-7d60bb.netlify.app/",
 	},
 	{
 		name: "Cuppon (Ecommerce)",
