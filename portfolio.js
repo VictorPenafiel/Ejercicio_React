@@ -85,7 +85,7 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "79",
+		progressPercentage: "72",
 	},
 	{
 		Stack: "Programando",
@@ -101,8 +101,8 @@ export const educationInfo = [
 		desc: "Bootcamp",
 		descBullets: [
 			"Newendo",
-			"Rolfing",
-			"Método Mézières"
+			"Tu sitio web 3.0",
+			"Onlyflans"
 		],
 	},
 	{
