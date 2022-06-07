@@ -128,22 +128,22 @@ export const projects = [
 
 	{
 		name: "Newendo (Aplicación web)",
-		desc: "AAplicación web desarrollada en Django, realizada para dar a conocer una nueva aplicación de desarrollo personal.",
+		desc: "Aplicación web desarrollada en Django, realizada para dar a conocer una nueva aplicación de desarrollo personal.",
 		link: "https://newendo.herokuapp.com/",
 	},
 	{
 		name: "Portafolio",
-		desc: "Sitio web totalmente responsivo que simula un sitio de portafolio web.",
+		desc: "Sitio totalmente responsivo de un portafolio web.",
 		link: "https://www.victorpenafiel.cl/",
 	},
 	{
 		name: "Ricomida (Ecommerce)",
-		desc: "Sitio web totalmente responsivo que simula un sitio de comida.",
+		desc: "Sitio web totalmente responsivo que simula un local de comida.",
 		link: "https://elated-shockley-d85a70.netlify.app/",
 	},
 	{
 		name: "Cuppon (Ecommerce)",
-		desc: "Sitio web totalmente responsivo que simula un sitio de ofertas.",
+		desc: "Sitio web totalmente responsivo que simula un negocio de ofertas.",
 		link: "https://wonderful-mirzakhani-266d51.netlify.app/",
 	},
 	
