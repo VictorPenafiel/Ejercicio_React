@@ -127,8 +127,8 @@ export const experience = [
 export const projects = [
 
 	{
-		name: "Newendo(Aplicación web)",
-		desc: "Aplicación web para dar a conocer una nueva tecnología del Yo.",
+		name: "Newendo (Aplicación web)",
+		desc: "AAplicación web desarrollada en Django, realizada para dar a conocer una nueva aplicación de desarrollo personal.",
 		link: "https://newendo.herokuapp.com/",
 	},
 	{
