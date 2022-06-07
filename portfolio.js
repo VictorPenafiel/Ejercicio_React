@@ -95,6 +95,17 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
+		schoolName: "Edutecno",
+		subHeader: "Desarrollador FullStack Python",
+		duration: "Diciebre 2021 - Junio 2022",
+		desc: "Bootcamp",
+		descBullets: [
+			"Newendo",
+			"Rolfing",
+			"Método Mézières"
+		],
+	},
+	{
 		schoolName: "Universidad de Valparaíso",
 		subHeader: "Cine",
 		duration: "2010 - 2013",
@@ -106,17 +117,7 @@ export const educationInfo = [
 
 		],
 	},
-	{
-		schoolName: "Universidad Católica del Norte",
-		subHeader: "Psicología",
-		duration: "2003-2005",
-		desc: "Tecnologías del Yo",
-		descBullets: [
-			"Yoga",
-			"Rolfing",
-			"Método Mézières"
-		],
-	},
+
 ];
 
 export const experience = [
@@ -133,7 +134,7 @@ export const projects = [
 	{
 		name: "Portafolio",
 		desc: "Sitio web totalmente responsivo que simula un sitio de portafolio web.",
-		link: "https://musing-jackson-54d380.netlify.app/",
+		link: "https://www.victorpenafiel.cl/",
 	},
 	{
 		name: "Ricomida (Ecommerce)",
