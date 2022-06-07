@@ -44,6 +44,7 @@ function SEO({ data }) {
 				async
 				src="https://code.iconify.design/1/1.0.4/iconify.min.js"
 			></script>
+			<script src="//code.tidio.co/ek9yobiyfncxe9iv98hi8tuy5fhtcxnq.js" async></script>
 		</Head>
 	);
 }
