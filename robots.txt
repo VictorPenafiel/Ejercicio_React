@@ -1,0 +1,28 @@
+# Tu Sitio Web 3.0
+# https://tusitioweb3.cl
+
+User-agent: *
+Allow: /
+Allow: /assets/img/
+
+# Sitemaps
+Sitemap: https://tusitioweb3.cl/sitemap.xml
+
+# AI Crawlers — Allow access for GEO/AI Overviews
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /

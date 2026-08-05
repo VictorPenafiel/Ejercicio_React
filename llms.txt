@@ -1,0 +1,45 @@
+# Tu Sitio Web 3.0
+
+> Desarrollo web, software a medida y marketing digital en Chile. Más de 15 años de experiencia.
+
+## Servicios
+
+- Desarrollo Front End: Interfaces de usuario interactivas y modernas con HTML5, CSS3 y JavaScript.
+- Desarrollo Back End: Servidores, bases de datos y lógica de negocio para aplicaciones web funcionales.
+- Software a Medida: Soluciones de software en Python y JavaScript para resolver problemáticas de negocio.
+- Consultoría de Gestión: Optimización de procesos y toma de decisiones estratégicas con experiencia directiva.
+- SEO: Optimización para motores de búsqueda y posicionamiento orgánico en Google.
+- Marketing Digital: Estrategias de marketing para conectar marcas con su público objetivo.
+- Estrategia de Marketing: Planificación y ejecución integrada para crecimiento sostenido.
+- Gestión de Proyectos: Coordinación de equipos, recursos y plazos para entregas exitosas.
+
+## Portafolio
+
+- Newendo Wellness (https://newendowellness.cl): Sitio de turismo wellness en Pucón, Chile.
+- Newendo (https://newendo.cl): Plataforma de terapia corporal integrativa con diseño dark premium.
+- Sercotur (https://sercotur.cl): Portal de servicios turísticos con catálogo de tours y reservas online.
+
+## Proceso de Trabajo
+
+1. Descubrimiento: Entendemos tu negocio, objetivos y público objetivo.
+2. Diseño: Creamos prototipos visuales y definimos la experiencia de usuario.
+3. Desarrollo: Codificamos con tecnología moderna, limpia y optimizada.
+4. Lanzamiento: Publicamos, optimizamos y acompañamos en los primeros pasos.
+
+## Tecnologías
+
+HTML5, CSS3, JavaScript, Python, Full Stack, SEO, Marketing Digital, Gestión de Proyectos.
+
+## Contacto
+
+- WhatsApp: +56 9 8382 4327
+- Email: victornewendo@gmail.com
+- Teléfono: +56 9 8382 4327
+
+## Redes Sociales
+
+- Instagram: https://www.instagram.com/newendowellness
+- Facebook: https://web.facebook.com/newendowellness
+- TikTok: https://www.tiktok.com/@newendowellness
+- X (Twitter): https://twitter.com/newendowellness
+- YouTube: https://www.youtube.com/@newendowellness

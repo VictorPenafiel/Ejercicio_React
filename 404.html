@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 — Página no encontrada | Tu Sitio Web 3.0</title>
+    <meta name="robots" content="noindex, follow">
+    <meta name="theme-color" content="#0B0F1A">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23D4643B'><path d='M13 2L3 14h9l-1 8 10-12h-9l1-8z'/></svg>" type="image/svg+xml">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .error-page {
+            min-height: 80vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 6rem 1.5rem;
+        }
+        .error-code {
+            font-family: var(--ff-display);
+            font-size: clamp(6rem, 15vw, 12rem);
+            color: var(--copper);
+            line-height: 1;
+            opacity: 0.2;
+            margin-bottom: -2rem;
+        }
+        .error-title {
+            font-family: var(--ff-display);
+            font-size: var(--fs-h2);
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+        }
+        .error-desc {
+            color: var(--text-muted);
+            max-width: 440px;
+            margin: 0 auto 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header class="site-header">
+        <nav class="site-nav">
+            <a href="/" class="nav-brand">
+                <span class="brand-icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+                </span>
+                Tu Sitio Web 3.0
+            </a>
+            <a href="/" class="btn-primary">Volver al Inicio</a>
+        </nav>
+    </header>
+
+    <main class="error-page">
+        <div>
+            <div class="error-code">404</div>
+            <h1 class="error-title">Página no encontrada</h1>
+            <p class="error-desc">La página que buscas no existe o ha sido movida. Vuelve al inicio para explorar nuestros servicios y portafolio.</p>
+            <a href="/" class="btn-primary">← Volver al Inicio</a>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <span>&copy; 2026 Tu Sitio Web 3.0. Todos los derechos reservados.</span>
+                <span>Chile</span>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
