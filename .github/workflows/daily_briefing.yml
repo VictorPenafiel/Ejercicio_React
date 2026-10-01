@@ -1,0 +1,27 @@
+name: TSW3 Daily Sales Briefing
+
+on:
+  schedule:
+    # 12:00 UTC = 09:00 AM hora de Chile (UTC-3), lunes a viernes
+    - cron: '0 12 * * 1-5'
+  workflow_dispatch: # Permite dispararlo manualmente en 1 clic desde GitHub Actions
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Ejecutar Dispatcher y enviar alerta a Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LEAD_WEBHOOK_URL: ${{ secrets.LEAD_WEBHOOK_URL }}
+        run: |
+          python tools/auditor/daily_dispatcher.py --notify

@@ -1,0 +1,101 @@
+# ==========================================
+# Tu Sitio Web 3.0 - .gitignore
+# ==========================================
+
+# 1. Dependencias y Paquetes Node / Frontend
+node_modules/
+*/node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+# 2. Entornos y Cachés de Python
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# 3. Archivos de Entorno y Secretos
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+credentials.json
+
+# 4. Logs y Archivos Temporales
+*.log
+*.tmp
+*.temp
+temp/
+tmp/
+*.swp
+*.swo
+test_ddg.html
+tools/auditor/temp_scraped.json
+
+# 5. Reportes y Artefactos Generados por el Auditor
+# Se ignoran los archivos pesados (PDFs, capturas PNG, JSONs crudos de Lighthouse)
+tools/auditor/reports/*.pdf
+tools/auditor/reports/*.png
+tools/auditor/reports/*.html
+tools/auditor/reports/*.json
+tools/auditor/reports/*.txt
+!tools/auditor/reports/.gitkeep
+
+# 6. Datos de Prospectos y Scraping Masivo (opcional para mantener repo liviano)
+tools/auditor/prospects/*.csv
+tools/auditor/prospects/*.json
+!tools/auditor/prospects/.gitkeep
+
+# 7. Editores y Sistema Operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+[Dd]esktop.ini
+
+# IDEs (VS Code, JetBrains)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.sublime-workspace
+*.sublime-project
